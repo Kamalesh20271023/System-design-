@@ -26,25 +26,25 @@ A simple Java console application that calculates a student's total marks, avera
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/StudentGradeCalculator.git
+git clone https://github.com/your-username/main.git
 ```
 
 ### 2. Navigate to the Project Folder
 
 ```bash
-cd StudentGradeCalculator
+cd main
 ```
 
 ### 3. Compile the Program
 
 ```bash
-javac StudentGradeCalculator.java
+javac student_record.java
 ```
 
 ### 4. Run the Program
 
 ```bash
-java StudentGradeCalculator
+java student_record
 ```
 
 ## 💻 Sample Output
